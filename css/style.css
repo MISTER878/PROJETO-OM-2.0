@@ -75,3 +75,26 @@ nav a:hover{
     background:#1d4ed8;
     transform:translateY(-3px);
 }
+body{
+
+    margin:0;
+
+    background:#0f172a;
+
+    color:white;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:100vh;
+
+}
+
+main{
+
+    text-align:center;
+
+}
