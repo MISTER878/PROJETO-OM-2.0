@@ -42,13 +42,26 @@ body{
     margin-bottom:25px;
 }
 
-.login-card input{
+.log.login-card input{
+
     width:100%;
-    padding:14px;
-    margin-bottom:15px;
-    border:1px solid #d1d5db;
-    border-radius:10px;
+
+    padding:16px;
+
+    margin-bottom:18px;
+
+    border:none;
+
+    border-radius:14px;
+
+    background:rgba(255,255,255,.12);
+
+    color:white;
+
     font-size:16px;
+
+    backdrop-filter:blur(8px);
+
 }
 
 .login-card button{
