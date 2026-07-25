@@ -6,13 +6,12 @@
 }
 
 body{
-    min-height:100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    background:#0f172a;
-}
 
+    min-height:100vh;
+
+    background:linear-gradient(180deg,#0f172a,#172554,#1e3a8a);
+
+}
 .login-card{
 
     width:100%;
