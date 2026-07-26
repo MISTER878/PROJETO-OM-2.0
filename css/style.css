@@ -130,14 +130,15 @@ body{
 
     display:block;
 
-}
+    transform:translateY(-10px);
 
+}
 .social-icon:last-child .icon{
 
     width:36px;
 
     height:36px;
 
-    transform:translateY(-3px);
+    transform:translateY(-8px);
 
 }
