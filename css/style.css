@@ -6,94 +6,69 @@
 }
 
 body{
-
     min-height:100vh;
-
     background:linear-gradient(180deg,#0f172a,#172554,#1e3a8a);
-
     display:flex;
-
     justify-content:center;
-
 }
+
 .login-card{
-
     width:100%;
-
     max-width:420px;
-
     min-height:100vh;
-
     padding:50px 30px;
-
     display:flex;
-
     flex-direction:column;
+    align-items:center;
+}
 
+.logo{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:64px;
+    margin-bottom:20px;
 }
 
 .login-card h1{
+    color:#fff;
     text-align:center;
     margin-bottom:10px;
-    color:white;
 }
 
 .login-card p{
+    color:#cbd5e1;
     text-align:center;
-    color:white;
-    margin-bottom:25px;
+    margin-bottom:30px;
 }
 
 .login-card input{
-
     width:100%;
-
     padding:16px;
-
     margin-bottom:18px;
-
     border:none;
-
     border-radius:14px;
-
     background:rgba(255,255,255,.12);
-
-    color:white;
-
+    color:#fff;
     font-size:16px;
+}
 
-    backdrop-filter:blur(8px);
+.login-card input::placeholder{
+    color:#cbd5e1;
+}
 
+.login-card input:focus{
+    outline:2px solid #60a5fa;
 }
 
 .login-card button{
-
     width:100%;
-
     padding:16px;
-
     border:none;
-
     border-radius:14px;
-
     background:linear-gradient(90deg,#2563eb,#3b82f6);
-
-    color:white;
-
+    color:#fff;
     font-size:17px;
-
     font-weight:bold;
-
-    cursor:pointer;
-
-    margin-top:8px;
-
-}
-
-    text-align:center;
-
-    font-size:64px;
-
-    margin-bottom:20px;
-
 }
