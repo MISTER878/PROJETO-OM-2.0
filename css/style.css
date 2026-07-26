@@ -122,9 +122,9 @@ body{
 
 .icon{
 
-    width:10px;
+    width:28px;
 
-    height:50px;
+    height:28px;
 
     object-fit:contain;
 
@@ -134,8 +134,8 @@ body{
 
 .social-icon:last-child .icon{
 
-    width:10px;
+    width:32px;
 
-    height:50px;
+    height:32px;
 
 }
