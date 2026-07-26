@@ -62,7 +62,7 @@ body{
     outline:2px solid #60a5fa;
 }
 
-.login-card button{
+.login-card > button{
     width:100%;
     padding:16px;
     border:none;
