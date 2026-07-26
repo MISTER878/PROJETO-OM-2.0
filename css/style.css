@@ -130,7 +130,7 @@ body{
 
     display:block;
 
-    transform:translateY(-15px);
+    transform:translateY(-20px);
 
 }
 .social-icon:last-child .icon{
@@ -139,6 +139,6 @@ body{
 
     height:36px;
 
-    transform:translateY(-15px);
+    transform:translateY(-25px);
 
 }
