@@ -72,3 +72,32 @@ body{
     font-size:17px;
     font-weight:bold;
 }
+.divider{
+    width:100%;
+    text-align:center;
+    color:#cbd5e1;
+    margin:25px 0 18px;
+    font-size:14px;
+}
+
+.google-btn{
+    width:100%;
+    padding:16px;
+    border:none;
+    border-radius:14px;
+    background:#ffffff;
+    color:#222;
+    font-size:16px;
+    font-weight:bold;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:12px;
+    cursor:pointer;
+}
+
+.google-btn span{
+    color:#4285F4;
+    font-size:22px;
+    font-weight:bold;
+}
