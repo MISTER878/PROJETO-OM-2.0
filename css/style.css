@@ -11,6 +11,10 @@ body{
 
     background:linear-gradient(180deg,#0f172a,#172554,#1e3a8a);
 
+    display:flex;
+
+    justify-content:center;
+
 }
 .login-card{
 
@@ -25,8 +29,6 @@ body{
     display:flex;
 
     flex-direction:column;
-
-    justify-content:center;
 
 }
 
