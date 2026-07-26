@@ -42,7 +42,7 @@ body{
     margin-bottom:25px;
 }
 
-.log.login-card input{
+.login-card input{
 
     width:100%;
 
@@ -65,16 +65,28 @@ body{
 }
 
 .login-card button{
+
     width:100%;
-    padding:14px;
+
+    padding:16px;
+
     border:none;
-    border-radius:10px;
-    background:#2563eb;
+
+    border-radius:14px;
+
+    background:linear-gradient(90deg,#2563eb,#3b82f6);
+
     color:white;
-    font-size:16px;
+
+    font-size:17px;
+
+    font-weight:bold;
+
     cursor:pointer;
+
+    margin-top:8px;
+
 }
-.logo{
 
     text-align:center;
 
