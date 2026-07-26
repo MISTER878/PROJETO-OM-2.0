@@ -95,16 +95,11 @@ body{
 }
 
 .social-icon{
-
-    width:60px;
-
-    height:60px;
+.social-icon{
 
     border:none;
 
-    border-radius:50%;
-
-    background:rgba(255,255,255,.10);
+    background:transparent;
 
     display:flex;
 
@@ -114,13 +109,15 @@ body{
 
     cursor:pointer;
 
+    padding:0;
+
 }
 
 .icon{
 
-    width:28px;
+    width:38px;
 
-    height:28px;
+    height:38px;
 
     object-fit:contain;
 
