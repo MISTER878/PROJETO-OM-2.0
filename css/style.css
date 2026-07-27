@@ -63,8 +63,8 @@ body{
 }
 
 .login-card > button{
-    width:100%;
-    padding:20px;
+    width:150%;
+    padding:16px;
     border:none;
     border-radius:14px;
     background:linear-gradient(90deg,#2563eb,#3b82f6);
