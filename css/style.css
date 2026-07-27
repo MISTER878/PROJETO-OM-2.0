@@ -30,6 +30,15 @@ body{
     font-size:64px;
     margin-bottom:20px;
 }
+.social-icon:last-child .icon{
+
+    width:36px;
+
+    height:36px;
+
+    transform:translateY(-23px);
+
+}
 
 .login-card h1{
     color:#fff;
