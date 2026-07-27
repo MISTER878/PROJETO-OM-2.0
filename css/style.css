@@ -142,3 +142,20 @@ body{
     transform:translateY(-20px);
 
 }
+.forgot-password{
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    color:#93c5fd;
+
+    font-size:14px;
+
+    text-decoration:none;
+
+    margin-bottom:14px;
+
+    }
